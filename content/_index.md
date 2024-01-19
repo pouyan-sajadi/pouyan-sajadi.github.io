@@ -65,12 +65,12 @@ sections:
         - title: Research Assistant
           company: Simon Fraser University
           company_url: ''
-          company_logo: org-gc
+          company_logo: ''
           location: Burnaby, BC
           date_start: '2022-09-01'
           date_end: '2024-12-31'
           description: |2-
-              Responsibilities include:
+              __Responsibilities include:__
 
               * Developed machine learning models informed by physics, reducing the dependency on extensive data
               by leveraging domain-specific knowledge.
@@ -80,7 +80,7 @@ sections:
         - title: Research Assistant
           company: Sharif University of Tech
           company_url: ''
-          company_logo: org-x
+          company_logo: ''
           location: Tehran, Iran
           date_start: '2021-03-01'
           date_end: '2021-05-31'
@@ -90,6 +90,47 @@ sections:
             * Developed a data-driven predictive model for stock prediction within the NYSE communication sector.
             * Crafted an automated portfolio system on top the predictive model for strategic trades.
             * Yielded 92% profit, approximately three times higher than the sector’s average return (31%).
+        - title: Business Intelligence Developer
+          company: Sepehr Plastic
+          company_url: ''
+          company_logo: ''
+          location: Tehran, Iran
+          date_start: '2020-10-01'
+          date_end: '2021-06-01'
+          description: |2-
+            Responsibilities include:
+
+            * Developed real-time dashboards, reducing data analysis time by 80%, leading to enhancement in
+            strategic decision-making eﬀiciency.
+            * Collaborated cross-functionally, translating business requirements into effective BI solutions.
+            * Boosted data retrieval eﬀiciency by 35% and team collaboration by 15% with integrated models
+        - title: Data Scientist
+          company: Fixshow
+          company_url: ''
+          company_logo: ''
+          location: Tehran, Iran
+          date_start: '2019-04-01'
+          date_end: '2019-12-01'
+          description: |2-
+            Responsibilities include:
+
+            * Developed models to predict customer preferences, enhancing targeted marketing, with a 25% increase
+            in campaign response rates.
+            * Engineered features for marketing KPIs, improving campaign planning effectiveness by 12%.
+            * Boosted personalized product suggestions using predictive analytics, increasing customer engagement.
+            * Assisted in A/B testing for marketing strategies and optimizing customer engagement.   
+        - title: Junior Data Analyst 
+          company: Net Hami
+          company_url: ''
+          company_logo: ''
+          location: Tehran, Iran
+          date_start: '2018-02-01'
+          date_end: '2019-01-01'
+          description: |2-
+            Responsibilities include:
+
+            * Assisted in creating simple visual presentations using data visualizations for small business clients.
+            * Generated descriptive analytics reports, helping businesses understand key performance indicators                                
     design:
       columns: '2'
   - block: accomplishments
