@@ -28,7 +28,7 @@ organizations:
 bio: ""
 
 # Interests to show in About widget
-Awards:
+interests:
   - Research Assistant Scholarship
   - Special Graduate Entrance Scholarship
   - Two Graduate Fellowship Scholarships

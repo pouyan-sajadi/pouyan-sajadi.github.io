@@ -86,11 +86,12 @@ sections:
           date_start: '2021-03-01'
           date_end: '2021-05-31'
           description: |2-
-            Responsibilities include:
+            __Responsibilities include:__
 
             * Developed a data-driven predictive model for stock prediction within the NYSE communication sector.
             * Crafted an automated portfolio system on top the predictive model for strategic trades.
             * Yielded 92% profit, approximately three times higher than the sector’s average return (31%).
+            {style="text-align: justify;"}
         - title: Business Intelligence Developer
           company: Sepehr Plastic
           company_url: ''
@@ -99,12 +100,13 @@ sections:
           date_start: '2020-10-01'
           date_end: '2021-06-01'
           description: |2-
-            Responsibilities include:
+            __Responsibilities include:__
 
             * Developed real-time dashboards, reducing data analysis time by 80%, leading to enhancement in
             strategic decision-making eﬀiciency.
             * Collaborated cross-functionally, translating business requirements into effective BI solutions.
-            * Boosted data retrieval eﬀiciency by 35% and team collaboration by 15% with integrated models
+            * Boosted data retrieval eﬀiciency by 35% and team collaboration by 15% with integrated models.
+            {style="text-align: justify;"}
         - title: Data Scientist
           company: Fixshow
           company_url: ''
@@ -113,13 +115,14 @@ sections:
           date_start: '2019-04-01'
           date_end: '2019-12-01'
           description: |2-
-            Responsibilities include:
+            __Responsibilities include:__
 
             * Developed models to predict customer preferences, enhancing targeted marketing, with a 25% increase
             in campaign response rates.
             * Engineered features for marketing KPIs, improving campaign planning effectiveness by 12%.
             * Boosted personalized product suggestions using predictive analytics, increasing customer engagement.
             * Assisted in A/B testing for marketing strategies and optimizing customer engagement.   
+            {style="text-align: justify;"}
         - title: Junior Data Analyst 
           company: Net Hami
           company_url: ''
@@ -128,10 +131,11 @@ sections:
           date_start: '2018-02-01'
           date_end: '2019-01-01'
           description: |2-
-            Responsibilities include:
+            __Responsibilities include:__
 
             * Assisted in creating simple visual presentations using data visualizations for small business clients.
-            * Generated descriptive analytics reports, helping businesses understand key performance indicators                                
+            * Generated descriptive analytics reports, helping businesses understand key performance indicators.
+            {style="text-align: justify;"}                                
     design:
       columns: '2'
   - block: accomplishments
@@ -176,33 +180,7 @@ sections:
           url: ''
     design:
       columns: '2'
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
+  
   - block: portfolio
     id: projects
     content:
