@@ -65,18 +65,16 @@ sections:
         - title: Research Assistant
           company: Simon Fraser University
           company_url: ''
-          company_logo: org-x
+          company_logo: ''
           location: Burnaby, BC
-          date_start: '2022-09-01'
-          date_end: '2024-12-31'
+          date_start: '2021-01-01'
+          date_end: ''
           description: |2-
-            Responsibilities include:
-            *Developed machine learning models informed by physics, reducing the dependency on extensive data
-            by leveraging domain-specific knowledge.
-            *Formulated and implemented a real-time modeling framework utilizing neural networks, integrating
-            physics principles as prior knowledge for improved accuracy in additive manufacturing.
-            *Overcame the limitations of both physics-based and data-driven models, achieving validation errors of
-            less than 3%.
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
