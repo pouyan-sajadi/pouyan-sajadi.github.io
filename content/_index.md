@@ -65,7 +65,7 @@ sections:
         - title: Research Assistant
           company: Simon Fraser University
           company_url: ''
-          company_logo: ''
+          company_logo: org-x
           location: Burnaby, BC
           date_start: '2022-09-01'
           date_end: '2024-12-31'
