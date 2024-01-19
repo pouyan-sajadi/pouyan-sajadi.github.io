@@ -77,6 +77,7 @@ sections:
               * Formulated and implemented a real-time modeling framework utilizing neural networks, integrating
               physics principles as prior knowledge for improved accuracy in additive manufacturing.
               * Overcame the limitations of both physics-based and data-driven models, achieving validation errors of less than 3%.
+              {style="text-align: justify;"}
         - title: Research Assistant
           company: Sharif University of Tech
           company_url: ''
