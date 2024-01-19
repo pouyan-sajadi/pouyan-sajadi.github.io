@@ -39,6 +39,11 @@ education:
     - course: Master of Science's in Mechatronic Systems Engineering
       institution: Simon Fraser University
       year: 09/2022 - 12/2024
+      GPA: |2-
+      * 4.18/4.3
+      * Research Assistant Scholarship
+      * Special Graduate Entrance Scholarship
+      * Two Graduate Fellowship Scholarship  
     - course: Bachelor's in Industrial Engineering
       institution: Sharif University of Technology
       year: 09/2017 - 01/2022
@@ -91,21 +96,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/pouyan-sajadi
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/pouyan-sajadi
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
