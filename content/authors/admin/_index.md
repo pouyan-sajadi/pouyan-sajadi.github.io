@@ -39,7 +39,6 @@ education:
     - course: Master of Science's in Mechatronic Systems Engineering
       institution: Simon Fraser University
       year: 09/2022 - 12/2024
-      GPA: |2-
       * 4.18/4.3
       * Research Assistant Scholarship
       * Special Graduate Entrance Scholarship
