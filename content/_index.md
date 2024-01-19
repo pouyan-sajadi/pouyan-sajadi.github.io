@@ -62,27 +62,32 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Research Assistant
+          company: Simon Fraser University
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Burnaby, BC
+          date_start: '2022-09-01'
+          date_end: '2024-12-31'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Developed machine learning models informed by physics, reducing the dependency on extensive data
+              by leveraging domain-specific knowledge.
+              * Formulated and implemented a real-time modeling framework utilizing neural networks, integrating
+              physics principles as prior knowledge for improved accuracy in additive manufacturing.
+              * Overcame the limitations of both physics-based and data-driven models, achieving validation errors of less than 3%.
+        - title: Research Assistant
+          company: Sharif University of Tech
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Tehran, Iran
+          date_start: '2021-03-01'
+          date_end: '2021-05-31'
+          description: 
+          * Developed a data-driven predictive model for stock prediction within the NYSE communication sector.
+          * Crafted an automated portfolio system on top the predictive model for strategic trades.
+          * Yielded 92% profit, approximately three times higher than the sector’s average return (31%).
     design:
       columns: '2'
   - block: accomplishments
