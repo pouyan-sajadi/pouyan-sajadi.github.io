@@ -84,7 +84,7 @@ sections:
           location: Tehran, Iran
           date_start: '2021-03-01'
           date_end: '2021-05-31'
-          description: 
+          description: |2-
           * Developed a data-driven predictive model for stock prediction within the NYSE communication sector.
           * Crafted an automated portfolio system on top the predictive model for strategic trades.
           * Yielded 92% profit, approximately three times higher than the sector’s average return (31%).
