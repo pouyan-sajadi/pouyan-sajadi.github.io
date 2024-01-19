@@ -28,10 +28,10 @@ organizations:
 bio: ""
 
 # Interests to show in About widget
-#interests:
-#  - Artificial Intelligence
-#  - Computational Linguistics
-#  - Information Retrieval
+Awards:
+  -Research Assistant Scholarship
+  -Special Graduate Entrance Scholarship
+  -Two Graduate Fellowship Scholarships
 
 # Education to show in About widget
 education:
@@ -39,10 +39,6 @@ education:
     - course: Master of Science's in Mechatronic Systems Engineering
       institution: Simon Fraser University
       year: 09/2022 - 12/2024
-      * 4.18/4.3
-      * Research Assistant Scholarship
-      * Special Graduate Entrance Scholarship
-      * Two Graduate Fellowship Scholarship  
     - course: Bachelor's in Industrial Engineering
       institution: Sharif University of Technology
       year: 09/2017 - 01/2022
@@ -112,5 +108,5 @@ social:
 highlight_name: true
 ---
 
-Hi, I am Pouyan. Currently pursuing my master's in mechatronics systems engineering at Simon Fraser University, I am dedicated to exploring the practical applications of machine learning within engineering contexts. With about two years of experience in various roles, my journey involves making more informed decisions through data analysis. My expertise lies in crafting actionable insights through machine learning and data-driven modeling, with proficiency in Python, R, and SQL. I have successfully led end-to-end data science projects, converting raw data into impactful solutions. What sets me apart is a well-rounded background. During my undergraduate studies in industrial engineering, I intentionally diversified my coursework to include areas such as economics, marketing, and project management. This blend of business-related studies, coupled with strong data science skills, positions me to uncover valuable insights aligning with both technical and business objectives. Collaboration has been a constant theme throughout my journey. Whether in academia or industry, working collaboratively with researchers and colleagues has instilled in me a deep appreciation for teamwork. I look forward to contributing my diverse skill set to collaborative environments, driven by the prospect of fostering personal and collective growth while championing the sharing of knowledge.
+ I'm Pouyan, a master's student in Mechatronics Systems Engineering at Simon Fraser University. My focus is on leveraging machine learning in engineering. With two years of diverse experience, I specialize in transforming data into actionable insights using Python, R, and SQL. I've led data science projects from inception to impactful solutions. My background in industrial engineering, enriched with studies in economics, marketing, and project management, uniquely positions me to blend technical and business insights. I thrive in collaborative settings, valuing teamwork and the shared growth it brings. I'm excited to apply my skills in environments that value knowledge exchange and collective progress.
 {style="text-align: justify;"}
