@@ -62,19 +62,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Research Assistant
+          company: Simon Fraser University
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          company_logo: org-SFU
+          location: Burnaby, BC
+          date_start: '2022-09-01'
+          date_end: '2024-12-31'
           description: |2-
               Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+                *Developed machine learning models informed by physics, reducing the dependency on extensive data
+                by leveraging domain-specific knowledge.
+                *Formulated and implemented a real-time modeling framework utilizing neural networks, integrating
+                physics principles as prior knowledge for improved accuracy in additive manufacturing.
+                *Overcame the limitations of both physics-based and data-driven models, achieving validation errors of
+                less than 3%.
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
