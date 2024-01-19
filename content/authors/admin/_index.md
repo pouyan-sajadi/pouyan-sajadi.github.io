@@ -29,9 +29,9 @@ bio: ""
 
 # Interests to show in About widget
 Awards:
-  -Research Assistant Scholarship
-  -Special Graduate Entrance Scholarship
-  -Two Graduate Fellowship Scholarships
+  - Research Assistant Scholarship
+  - Special Graduate Entrance Scholarship
+  - Two Graduate Fellowship Scholarships
 
 # Education to show in About widget
 education:
