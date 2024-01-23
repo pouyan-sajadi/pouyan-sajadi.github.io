@@ -151,69 +151,8 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-      items:
-        - certificate_url: "https://drive.google.com/file/d/1GlpKRNXIg_x1tkHqxx8wGJQOPF3-flE3/view?usp=sharing"
-          date_end: '2/2020'
-          date_start: ''
-          description: "A 48-hour specialization held by University of Tehran"
-          icon: ''
-          organization: "University of Tehran"
-          organization_url: ''
-          title: "Data Science in Industrial Engineering"
-          url: ''
-
-        - certificate_url: "https://www.udemy.com/certificate/UC-ce97e963-3a3e-4140-9341-6f8c4a86624f/"
-          date_end: '10/2020'
-          date_start: ''
-          description: ''
-          icon: 'udemy'
-          organization: "Udemy"
-          organization_url: "https://www.udemy.com"
-          title: "Python & Machine Learning for Financial Analysis"
-          url: ''
-
-        - certificate_url: "https://www.udemy.com/certificate/UC-8909e107-d0a7-4545-9305-6eed9174c002/"
-          date_end: '09/2020'
-          date_start: ''
-          description: ''
-          icon: 'udemy'
-          organization: "Udemy"
-          organization_url: "https://www.udemy.com"
-          title: "Complete Linear Regression Analysis in Python"
-          url: ''
-
-        - certificate_url: "https://www.udemy.com/certificate/UC-f88472e8-e369-4353-b67f-13cbbaeb6747/"
-          date_end: '08/2020'
-          date_start: ''
-          description: ''
-          icon: 'udemy'
-          organization: "Udemy"
-          organization_url: "https://www.udemy.com"
-          title: "Tableau Training: Master Tableau For Data Science"
-          url: ''
-
-        - certificate_url: "https://www.coursera.org/account/accomplishments/certificate/JKAJWETD4SJ3"
-          date_end: '08/2020'
-          date_start: ''
-          description: ''
-          icon: 'coursera'
-          organization: "Coursera"
-          organization_url: "https://www.coursera.org"
-          title: "Fundamentals of Quantitative Modeling"
-          url: ''
-
-        - certificate_url: "https://www.coursera.org/account/accomplishments/certificate/DKZDQPW5ALDM"
-          date_end: '9/2020'
-          date_start: ''
-          description: ''
-          icon: 'coursera'
-          organization: "Coursera"
-          organization_url: "https://www.coursera.org"
-          title: "Neural Networks and Deep Learning"
-          url: ''
-
-        - certificate_url: "https://www.coursera.org/account/accomplishments/certificate/NUSPLETQE75Y"
-          date_end: 10/2020
+          - certificate_url: "https://www.coursera.org/account/accomplishments/certificate/NUSPLETQE75Y"
+          date_end: '10-2020-1'
           date_start: ''
           description: ''
           icon: 'coursera'
@@ -222,26 +161,24 @@ sections:
           title: "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
           url: ''
 
-        - certificate_url: "https://www.coursera.org/account/accomplishments/certificate/2WYX3J3K2Z77"
-          date_end: '09/2020'
-          date_start: ''
+        - certificate_url: https://www.edx.org
+          date_end: ''
+          date_start: '2021-01-01'
+          description: Formulated informed blockchain models, hypotheses, and use cases.
+          icon: edx
+          organization: edX
+          organization_url: https://www.edx.org
+          title: Blockchain Fundamentals
+          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+        - certificate_url: https://www.datacamp.com
+          date_end: '2020-12-21'
+          date_start: '2020-07-01'
           description: ''
-          icon: 'coursera'
-          organization: "Coursera"
-          organization_url: "https://www.coursera.org"
-          title: "Introduction to Spreadsheets and Models"
+          icon: datacamp
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title: 'Object-Oriented Programming in R'
           url: ''
-
-        - certificate_url: "https://www.coursera.org/account/accomplishments/certificate/MZD22YFULGJT"
-          date_end: '10/2020'
-          date_start: ''
-          description: ''
-          icon: 'coursera'
-          organization: "Coursera"
-          organization_url: "https://www.coursera.org"
-          title: "Getting started with TensorFlow 2"
-          url: ''
-
     design:
       columns: '2'
   
