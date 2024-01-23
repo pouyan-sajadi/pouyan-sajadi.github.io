@@ -160,7 +160,7 @@ sections:
           organization_url: https://www.coursera.org
           title: Neural Networks and Deep Learning
           url: ''
-         - certificate_url: https://drive.google.com/file/d/1GlpKRNXIg_x1tkHqxx8wGJQOPF3-flE3/view?usp=sharing
+        - certificate_url: https://drive.google.com/file/d/1GlpKRNXIg_x1tkHqxx8wGJQOPF3-flE3/view?usp=sharing
           date_end: ''
           date_start: '2020-02-1'
           description: A 48-hour specialization held by University of Tehran
