@@ -160,6 +160,15 @@ sections:
           organization_url: https://www.coursera.org
           title: Neural Networks and Deep Learning
           url: ''
+         - certificate_url: https://drive.google.com/file/d/1GlpKRNXIg_x1tkHqxx8wGJQOPF3-flE3/view?usp=sharing
+          date_end: '2020-02-1'
+          date_start: ''
+          description: A 48-hour specialization held by University of Tehran
+          icon: 
+          organization: University of Tehran
+          organization_url: ''
+          title: Data Science in Industrial Engineering
+          url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
