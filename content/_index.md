@@ -151,16 +151,15 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-          - certificate_url: https://www.coursera.org/account/accomplishments/certificate/NUSPLETQE75Y
-          date_end: '10-2020-1'
-          date_start: ''
+        - certificate_url: https://www.coursera.org
+          date_end: ''
+          date_start: '2021-01-25'
           description: ''
           icon: coursera
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+          title: Neural Networks and Deep Learning
           url: ''
-
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
