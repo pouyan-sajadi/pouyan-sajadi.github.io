@@ -151,8 +151,9 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+      items:
         - certificate_url: "https://drive.google.com/file/d/1GlpKRNXIg_x1tkHqxx8wGJQOPF3-flE3/view?usp=sharing"
-          date_end: ''
+          date_end: '2/2020'
           date_start: ''
           description: "A 48-hour specialization held by University of Tehran"
           icon: ''
@@ -162,7 +163,7 @@ sections:
           url: ''
 
         - certificate_url: "https://www.udemy.com/certificate/UC-ce97e963-3a3e-4140-9341-6f8c4a86624f/"
-          date_end: ''
+          date_end: '10/2020'
           date_start: ''
           description: ''
           icon: 'udemy'
@@ -172,7 +173,7 @@ sections:
           url: ''
 
         - certificate_url: "https://www.udemy.com/certificate/UC-8909e107-d0a7-4545-9305-6eed9174c002/"
-          date_end: ''
+          date_end: '09/2020'
           date_start: ''
           description: ''
           icon: 'udemy'
@@ -182,7 +183,7 @@ sections:
           url: ''
 
         - certificate_url: "https://www.udemy.com/certificate/UC-f88472e8-e369-4353-b67f-13cbbaeb6747/"
-          date_end: ''
+          date_end: '08/2020'
           date_start: ''
           description: ''
           icon: 'udemy'
@@ -192,7 +193,7 @@ sections:
           url: ''
 
         - certificate_url: "https://www.coursera.org/account/accomplishments/certificate/JKAJWETD4SJ3"
-          date_end: ''
+          date_end: '08/2020'
           date_start: ''
           description: ''
           icon: 'coursera'
@@ -202,7 +203,7 @@ sections:
           url: ''
 
         - certificate_url: "https://www.coursera.org/account/accomplishments/certificate/DKZDQPW5ALDM"
-          date_end: ''
+          date_end: '9/2020'
           date_start: ''
           description: ''
           icon: 'coursera'
@@ -212,7 +213,7 @@ sections:
           url: ''
 
         - certificate_url: "https://www.coursera.org/account/accomplishments/certificate/NUSPLETQE75Y"
-          date_end: ''
+          date_end: 10/2020
           date_start: ''
           description: ''
           icon: 'coursera'
@@ -222,7 +223,7 @@ sections:
           url: ''
 
         - certificate_url: "https://www.coursera.org/account/accomplishments/certificate/2WYX3J3K2Z77"
-          date_end: ''
+          date_end: '09/2020'
           date_start: ''
           description: ''
           icon: 'coursera'
@@ -232,7 +233,7 @@ sections:
           url: ''
 
         - certificate_url: "https://www.coursera.org/account/accomplishments/certificate/MZD22YFULGJT"
-          date_end: ''
+          date_end: '10/2020'
           date_start: ''
           description: ''
           icon: 'coursera'
